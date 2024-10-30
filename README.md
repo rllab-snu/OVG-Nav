@@ -1,4 +1,4 @@
-# Stage-Wise CMORL
+# OVG-Nav
 
 This is an official GitHub Repository for paper ["Commonsense-Aware Object Value Graph for Object Goal Navigation"](https://ieeexplore.ieee.org/abstract/document/10478188).
 
